@@ -1,0 +1,8 @@
+{
+    "vue.config.experimentalTemplateCompiler": true,
+    "typescript.validate.enable": true,
+    "javascript.validate.enable": true,
+    "eslint.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.validate": ["vue", "typescript", "javascript"]
+  }

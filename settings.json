@@ -1,0 +1,5 @@
+{
+    "vue.config.experimentalTemplateCompiler": true,
+    "typescript.validate.enable": true,
+    "javascript.validate.enable": true,
+  }
